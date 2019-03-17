@@ -1,0 +1,50 @@
+insert 500
+median
+insert 300
+median
+predecessor 500
+successor 300
+insert 700
+median
+insert 50
+median
+insert 40
+median
+insert 122
+minimum
+median
+insert 222
+median
+insert 444
+median
+insert 30
+median
+inorder
+preorder
+maximum
+find 300
+find 100
+delete 30
+minimum
+median
+delete 700
+maximum
+median
+delete 222
+median
+find 444
+find 111
+delete 122
+median
+delete 444
+median
+delete 50
+median
+delete 40
+median
+delete 500
+median
+delete 300
+preorder
+find 300
+median

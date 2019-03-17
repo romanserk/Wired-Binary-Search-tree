@@ -1,0 +1,87 @@
+insert 300
+insert 450
+insert 150
+insert 200
+insert 225
+insert 175
+preorder
+postorder
+inorder
+median
+maximum
+minimum
+find 150
+find 9999
+predecessor 225
+successor 225
+insert 100
+insert 400
+insert 350
+insert 125
+insert 700
+insert 100
+insert 500
+insert 50
+insert 400
+insert 325
+insert 180
+insert 120
+insert 770
+insert 10
+insert 994
+insert 10
+insert 566
+insert 110
+preorder
+postorder
+inorder
+median
+maximum
+minimum
+find 150
+find 9999
+predecessor 225
+successor 225
+insert 200
+delete 700
+delete 400
+insert 500
+delete 180
+delete 225
+delete 175
+delete 100
+delete 500
+insert 998
+delete 150
+delete 125
+insert 5
+preorder
+postorder
+inorder
+median
+maximum
+minimum
+find 450
+find 111
+predecessor 450
+successor 450
+insert 500
+delete 200
+delete 325
+delete 400
+delete 450
+delete 50
+delete 200
+insert 600
+insert 30
+delete 300
+preorder
+postorder
+inorder
+median
+maximum
+minimum
+find 150
+find 9999
+predecessor 994
+successor 10
