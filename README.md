@@ -20,7 +20,7 @@ Return the median of the tree.
 
 The values can be added to the tree by File or StdIn.
 
-Aditions enstructions:
+Addition instructions:
 * You must not use the fields to distinguish whether the left or right field is a wire or a normal one.
 * There may be multiple instances of each key. Each key insertion action You will create a new node. Do not group all instances of a key in a single node.
 * The keys are integers (positive and negative).
