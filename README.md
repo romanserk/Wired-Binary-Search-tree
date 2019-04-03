@@ -32,3 +32,5 @@ Addition instructions:
 * The program reads from line to line, performs the command, and prints the result to the output.
 * Each line of input must be printed out of the program exactly as it was read, before handling it. This way, the input will appear on the output screen even when it comes from a file.
 * Note: The pred, succ, delete commands appear in the input with a key operand, not as we learned in the course that the operand is pointing to the node. This is a constraint, since it is meaningless to move a pointer in the input. You may assume that the key is in the tree (no need to check it). If there are several instances of the key, the command refers to one of the occurrences (no matter which).
+
+![EXAMPLE](https://raw.githubusercontent.com/romanserk/Wired-Binary-Search-tree/master/run%20examples/first%20run%20upper%20part.png)
